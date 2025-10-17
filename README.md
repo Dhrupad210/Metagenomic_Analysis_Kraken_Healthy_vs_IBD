@@ -132,7 +132,6 @@ Increased Inflammatory Potential: The dominance of an opportunistic genus like B
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Dhrupad210/Metagenomic_Analysis_Kraken_Healthy_vs_IBD
-cd crohns_metagenome_study
 ```
 
 ### **2. Set Up the Environment**
