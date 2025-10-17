@@ -1,0 +1,17 @@
+# environment.yml
+name: metagenome_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastp
+  - kraken=1.1.1 
+  - bracken
+  - krona
+  - r-base
+  - r-dplyr
+  - r-tidyr
+  - r-ggplot2
+  - r-vegan
+  - r-patchwork
+  - r-ggrepel
